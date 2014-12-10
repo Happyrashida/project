@@ -1,0 +1,5 @@
+c:\users\sunshine\documents\visual studio 2013\Projects\GreetApp1\GreetApp1\bin\Debug\GreetApp1.exe.config
+c:\users\sunshine\documents\visual studio 2013\Projects\GreetApp1\GreetApp1\bin\Debug\GreetApp1.exe
+c:\users\sunshine\documents\visual studio 2013\Projects\GreetApp1\GreetApp1\bin\Debug\GreetApp1.pdb
+c:\users\sunshine\documents\visual studio 2013\Projects\GreetApp1\GreetApp1\obj\Debug\GreetApp1.exe
+c:\users\sunshine\documents\visual studio 2013\Projects\GreetApp1\GreetApp1\obj\Debug\GreetApp1.pdb
